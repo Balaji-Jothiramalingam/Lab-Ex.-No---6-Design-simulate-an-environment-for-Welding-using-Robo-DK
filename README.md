@@ -128,6 +128,13 @@ r.ProgSave(r"""C:/Users/Jayashree Rao/OneDrive/Documents/RoboDK""",r"""Prog1""",
 
 ```
 ### simulation :
+![n1](https://user-images.githubusercontent.com/114234865/204579932-d92354a3-7ca9-4bb8-a39f-68114558c2e3.png)
+
+![n3](https://user-images.githubusercontent.com/114234865/204579770-c6c5a866-ee0f-440d-ac44-bba63c907fb4.png)
+![n4](https://user-images.githubusercontent.com/114234865/204579799-0d9dedd8-d4a1-4384-90ae-8bd4364be6de.png)
+![n5](https://user-images.githubusercontent.com/114234865/204579818-0dec2196-64f9-4223-8eb3-9f7ff7b4905a.png)
+![n6](https://user-images.githubusercontent.com/114234865/204579831-3e319629-f32d-4a49-9669-090b56397002.png)
 
 ### Results:
 
+Thus, an environment for welding operation using robodk is Designed & simulated.
